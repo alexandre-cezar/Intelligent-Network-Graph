@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10560e47-cafd-49cf-a9b5-cb09e1b678f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Intelligent Network Investigation Graph.adoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intelligent Network Graph.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/01 - Network Graph - Hierarchy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/02 - Network Graph - Swinlanes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/03 - Network Graph - Flows.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/04 - Network Graph - Auto Expand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/05 - Network Graph - Flows - Filtered.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/06 - Network Graph - Flows - Details.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/07 - Network Graph - Flows - IP Information.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/08 - Network Graph - Flows - Autofocus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/09 - Network Graph - Flows - Download.png" afterDir="false" />
-    </list>
+    <list default="true" id="10560e47-cafd-49cf-a9b5-cb09e1b678f9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
