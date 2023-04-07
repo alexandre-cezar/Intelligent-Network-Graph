@@ -60,7 +60,7 @@ Or you can further refine your query to match the exact assets you are intereste
 image::images/05 - Network Graph - Flows - Filtered.png[width=400,align="center"]
 
 [NOTE]
-When a selection results in groups with 3 or less child objects, they will automatically be expanded
+When a selection results in groups with 3 or less child objects, they will automatically be expanded. If you want to collapse all groups, just do a double click outside them
 
 === Analyzing network flows
 
